@@ -1,0 +1,29 @@
+#navbar{
+    border: solid 3px black;
+    /*      NEOMORPHISM NAVBAR      */
+    border-radius: 25px;
+    background: linear-gradient(145deg, #cfcfcf, #f6f6f6);
+    box-shadow:  5px 5px 23px #5c5c5c,-5px -5px 23px #ffffff;
+}
+
+section{
+border: solid 3px black;
+width: 98%;
+height: 100%;
+padding: 0.5%;
+
+    /*      NEOMORPHISM     */
+    border-radius: 60px;
+    background: #e6e6e6;
+    box-shadow: inset 35px 35px 70px #aaaaaa,
+                inset -35px -35px 70px #ffffff;
+}
+
+footer  > div.column > a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+footer > div.column > a:hover{
+    background-color: black;
+    color: whitesmoke;
+}
